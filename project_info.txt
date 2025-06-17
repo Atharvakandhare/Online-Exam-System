@@ -1,0 +1,49 @@
+Online Examination System - Project Documentation
+
+---
+Project Title:** Online Examination System
+Technologies Used:** JSP, Servlets, JDBC, MySQL, HTML, CSS, Bootstrap
+
+
+---
+
+ 1. Introduction:
+
+The Online Examination System is a web-based application that facilitates conducting exams online. It is primarily designed for educational institutions to simplify and digitize the exam-taking process.
+
+---
+
+ 2. Modules:
+
+ 2.1. Student Module:
+
+* **Login/Register** using email ID.
+* **Dashboard**: Displays a list of available exams.
+* **Start Exam**: Student can start an exam and answer questions.
+* **Submit Exam**: Finalizes the answers and submits the test.
+* **View Result** (Optional): After submission, view result if allowed.
+
+2.2. Admin/Teacher Module:
+
+* **Login** as Admin.
+* **Create Exam**: Enter exam title, description, duration, and total questions.
+* **Add Questions**: Add MCQs for a specific exam.
+* **View/Edit/Delete Exams and Questions**: Manage all test content.
+
+---
+
+ 3. Key Features:
+
+* Responsive user interface using Bootstrap.
+* Secure login sessions using HttpSession.
+* CRUD operations for questions and exams.
+* Organized question storage per exam.
+
+
+Conclusion:
+
+The Online Examination System offers a complete platform to digitize the process of exams. Its modular structure, responsive design, and secure backend make it suitable for institutions to conduct tests efficiently.
+
+---
+
+**Prepared by:** Shreya Joshi(SY MCA)
